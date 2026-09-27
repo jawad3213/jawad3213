@@ -1,9 +1,9 @@
 <!-- ============================== HEADER ============================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1E3A8A,100:38BDF8&height=230&section=header&text=Jaouad%20El%20Hail&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Engineer%20%C2%B7%20DevOps%20%26%20Cloud%20%C2%B7%20UI%2FUX%20Designer&descSize=18&descAlignY=60" width="100%" alt="Jaouad El Hail" />
-</p>
-
 <div align="center">
+
+# Hi, I'm Jaouad El Hail 👋
+
+### Full-Stack Engineer · DevOps & Cloud Engineer · UI/UX Designer
 
 <a href="https://jaouadelhail.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=I+build+robust%2C+scalable+%26+intuitive+products;Spring+Boot+%C2%B7+React+%C2%B7+Angular+%C2%B7+Laravel;Docker+%C2%B7+Kubernetes+%C2%B7+AWS+%C2%B7+GCP;AI-powered+apps+with+RAG+%26+LLMs" alt="Typing SVG" />
@@ -32,21 +32,14 @@ I build high-value digital products by bridging the gap between **human-centric 
 
 I'm a Full-Stack Developer who cares about the whole product lifecycle, from the first UI/UX wireframes and animations to solid development, thorough testing, CI/CD and monitoring. I use AI both in my workflow and inside the products I ship, which lets me deliver faster and build things that scale.
 
-```java
-public class JaouadElHail extends Engineer {
+- 🎓 Computer Science Engineering student at **ENSA Tangier** (2024 – 2027)
+- 💼 Latest experience: **Full-Stack & DevOps Developer at Zenika**
+- 🛠️ I work on full-stack apps, cloud & DevOps, UI/UX & motion design, and AI / RAG products
+- 🔭 Open to **PFE (end-of-studies) internships**, freelance projects and technical discussions
+- 📍 Based in Morocco (Tangier · Casablanca · Mohammedia)
 
-    String   school     = "ENSA Tangier · Computer Science Engineering (2024 – 2027)";
-    String   lastRole   = "Full-Stack & DevOps Developer @ Zenika";
-    String[] location   = { "Tangier", "Casablanca", "Mohammedia" };
-
-    String[] doing      = { "Full-Stack apps", "Cloud & DevOps", "UI/UX & motion design", "AI / RAG products" };
-    String[] lookingFor = { "PFE (end-of-studies) internship", "Freelance projects", "Tech discussions" };
-
-    String   motto      = "Tools are temporary. A job well done is a permanent return.";
-}
-```
-
-> *"In code, I seek **efficiency**. In business, I seek **value**. In life, I seek **purpose**."*
+> *"In code, I seek **efficiency**. In business, I seek **value**. In life, I seek **purpose**.
+> Tools are temporary, but the integrity of a job well done is the only investment that yields a permanent return."*
 
 <br/>
 
@@ -275,28 +268,6 @@ Desktop application for managing a school's administration: statistics dashboard
 </td>
 </tr>
 </table>
-
-<br/>
-
-<!-- ============================== STATS ============================== -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jawad3213&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=C9D1D9&ring_color=38BDF8" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad3213&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=jawad3213&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" alt="GitHub streak" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jawad3213&hide_border=true&area=true&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=8B5CF6&area_color=38BDF8&title_color=38BDF8&custom_title=Contribution%20Activity" alt="Contribution graph" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jawad3213/jawad3213/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jawad3213/jawad3213/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/jawad3213/jawad3213/output/github-snake-dark.svg" />
-</picture>
-
-</div>
 
 <br/>
 
