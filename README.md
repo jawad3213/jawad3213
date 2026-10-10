@@ -16,17 +16,24 @@
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=jawad3213&color=38BDF8&style=flat-square&label=Profile+views" alt="Profile views" />
-<img src="https://img.shields.io/badge/Status-Open_to_PFE_internships-22C55E?style=flat-square&labelColor=0D1117" alt="Open to PFE internships" />
+<img src="https://img.shields.io/badge/PFE-6_months_from_Feb_2027-22C55E?style=flat-square&labelColor=0D1117" alt="Open to PFE internships" />
 
 </div>
 
 ## 👨‍💻 About Me
 
-Computer Science Engineering student at **ENSA Tangier** (2024 – 2027). I build products end to end, from UI/UX in Figma to backend, CI/CD and cloud deployment, and I use AI both in my workflow and inside the products I ship.
+Final-year **Full-Stack & DevOps engineering student** at **ENSA Tangier**, focused on business value. I digitalize complex business processes and take them from design to production.
 
-- 💼 Latest: **Full-Stack & DevOps Developer @ Zenika**: Stripe payment module (DDD, hexagonal), CI/CD to Google Cloud Run
-- 💼 Before: **Full-Stack Dev & UI/UX @ Smart Automations**: Angular/Express e-commerce with an n8n RAG chatbot
-- 🔭 Open to **PFE internships** and freelance projects
+- 🏗️ **Full-Stack & Architecture:** web apps built with **DDD** and hexagonal architecture (Spring Boot, React, Angular, .NET)
+- ☁️ **Cloud & DevOps:** **CI/CD** pipelines, Infrastructure as Code with **Terraform**, containerized deployments on **AWS** and **GCP**
+- 🤖 **AI:** integration of **AI agents** (LangGraph, LangChain) and RAG into real products
+- 🧾 **ERP & Business Processes:** hands-on digitalization of the **Procure-to-Pay (P2P)** process, trained in **SAP BTP** and **ABAP** fundamentals
+
+**Experience:**
+- 💼 **Full-Stack & DevOps Developer @ Zenika**: Stripe payment module (DDD, hexagonal), CI/CD to Google Cloud Run
+- 💼 **Full-Stack Developer & UI/UX @ Smart Automations**: Angular/Express e-commerce with an n8n RAG chatbot
+
+> 🎯 **Looking for a 6-month PFE (end-of-studies internship) starting February 2027** in Full-Stack, Cloud/DevOps or SAP.
 
 ## 🛠️ Tech Stack
 
@@ -44,7 +51,7 @@ Computer Science Engineering student at **ENSA Tangier** (2024 – 2027). I buil
 <h3 align="center">📦 Materia</h3>
 <a href="https://jaouadelhail.com/works/materia"><img src="https://d2mjdaj9pmixgq.cloudfront.net/Materia/general1.jpg" alt="Materia" /></a>
 
-Enterprise **Procure-to-Pay** platform: requisitions, approvals, purchase orders, goods receipts and 3-way invoice matching.
+**Procure-to-Pay** platform for companies: requisitions, approvals, purchase orders, goods receipts and 3-way invoice matching.
 
 `Spring Boot 3` `React 19` `Kafka` `PostgreSQL` `AWS ECS` `Terraform`
 
