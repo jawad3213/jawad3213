@@ -89,7 +89,7 @@ Final-year **Full-Stack & DevOps engineering student** at **ENSA Tangier**, focu
 
 <p align="center">
 <a href="https://jaouadelhail.com/works/scrumflow"><img src="https://img.shields.io/badge/Case_Study-38BDF8?style=flat-square&logo=googlechrome&logoColor=white" alt="Case study"/></a>
-<a href="https://github.com/jawad3213/ScrumFlow"><img src="https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
+<a href="https://github.com/jawad3213/ScrumFlow2"><img src="https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
 </p>
 
 </td>
