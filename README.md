@@ -38,7 +38,7 @@ Final-year **Full-Stack & DevOps engineering student** at **ENSA Tangier**, focu
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,react,angular,vue,nextjs,nodejs,dotnet,laravel,python,fastapi&perline=12" alt="Languages and frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,react,angular,vue,nextjs,nodejs,dotnet,spring boot,python,fastapi&perline=12" alt="Languages and frameworks" /><br/>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,docker,kubernetes,terraform,aws,gcp,azure,githubactions,figma&perline=12" alt="Data, DevOps and design" />
 </p>
 
@@ -85,7 +85,7 @@ Final-year **Full-Stack & DevOps engineering student** at **ENSA Tangier**, focu
 
 **AI planning tool** that turns a requirements PDF into a roadmap: ROI, staffing, Agile backlog and risk analysis.
 
-`React` `Laravel` `FastAPI` `Gemini` `Docker` `AWS`
+`React` `Spring Boot` `FastAPI` `Gemini` `Docker` `AWS`
 
 <p align="center">
 <a href="https://jaouadelhail.com/works/scrumflow"><img src="https://img.shields.io/badge/Case_Study-38BDF8?style=flat-square&logo=googlechrome&logoColor=white" alt="Case study"/></a>
